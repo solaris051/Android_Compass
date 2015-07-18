@@ -27,7 +27,7 @@ public class CompassActivity extends Activity {
                 if (v instanceof CompassView) {
                     cv.setBearing(45);
                     
-                    tv.setText("1234567890");
+                    tv.setText("123456789-10");
                 }
             }
         };
