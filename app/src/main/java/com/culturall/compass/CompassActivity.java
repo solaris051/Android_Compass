@@ -26,7 +26,7 @@ public class CompassActivity extends Activity {
             public void onClick(View v) {
                 if (v instanceof CompassView) {
                     cv.setBearing(45);
-                    tv.setText("TAPPED!!!!");
+                    tv.setText("1234567890");
                 }
             }
         };
